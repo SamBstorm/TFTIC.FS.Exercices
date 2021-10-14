@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos-Banque01", "Exos-Banqu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos-Banque02", "Exos-Banque02\Exos-Banque02.csproj", "{43A4109A-DF38-4036-83B4-A5BB167EF845}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exos-Banque03", "Exos-Banque03\Exos-Banque03.csproj", "{AB364CD3-6C19-4D42-9CFF-ED549CE581EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{43A4109A-DF38-4036-83B4-A5BB167EF845}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{43A4109A-DF38-4036-83B4-A5BB167EF845}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{43A4109A-DF38-4036-83B4-A5BB167EF845}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB364CD3-6C19-4D42-9CFF-ED549CE581EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB364CD3-6C19-4D42-9CFF-ED549CE581EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB364CD3-6C19-4D42-9CFF-ED549CE581EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB364CD3-6C19-4D42-9CFF-ED549CE581EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
